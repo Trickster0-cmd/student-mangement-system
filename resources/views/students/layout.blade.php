@@ -11,7 +11,11 @@
     <link rel="icon" href="https://slc-sflu.edu.ph/images/a.png" type="image/png">
 
     <!-- Scripts -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" defer></script>
+    <script src="{{ asset('app.js') }}" defer></script>
+
+
+
+  
 
    
 
@@ -20,6 +24,7 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
+    <link href="https://github.com/Trickster0-cmd/alatas-vercel-laravel/blob/main/public/css/app.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Scripts -->
@@ -92,6 +97,8 @@
             @yield('content')
         </main>
     </div>
+    <script>
+        
+    </script>
 </body>
 </html>
-
