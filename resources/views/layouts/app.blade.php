@@ -11,7 +11,8 @@
     <link rel="icon" href="https://slc-sflu.edu.ph/images/a.png" type="image/png">
 
     <!-- Scripts -->
-    <script src="https://raw.githubusercontent.com/Trickster0-cmd/alatas-vercel-laravel/main/public/js/app.js" defer></script>
+    <script src="{{ url('js/app.js') }}"></script>
+
 
 
     
