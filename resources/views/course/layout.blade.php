@@ -11,7 +11,7 @@
     <link rel="icon" href="https://slc-sflu.edu.ph/images/a.png" type="image/png">
 
     <!-- Scripts -->
-    <script src="{{ url('js/app.js') }}"></script>
+    <script src="../../../app.js"></script>
 
 
 
